@@ -1,4 +1,4 @@
-Data-Science
+Series Temporales
 ============
 
-aplicaciones academia
+Desarrollo en clases
